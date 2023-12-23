@@ -7,6 +7,7 @@ A discord bot that will show your servers player count and current map as the di
 - itertools (pip install itertools)
 
 This code is free to use and edit for your own use, the Battlemetrics and discord code are in sperate .py files in order to maintain simplicity and readability for maybe less experienced people trying to get it running.
+
 <img width="237" alt="Screenshot 2023-12-23 at 12 07 59" src="https://github.com/LukeeSucks/Squad-Discord-Activity-Status-Bot/assets/105941171/62013be8-df4b-4ac8-a75b-252de10d3361">
 <img width="232" alt="Screenshot 2023-12-23 at 12 08 10" src="https://github.com/LukeeSucks/Squad-Discord-Activity-Status-Bot/assets/105941171/8130d625-f7ec-45d2-944d-e9fd31c20c80">
 <img width="235" alt="Screenshot 2023-12-23 at 12 09 59" src="https://github.com/LukeeSucks/Squad-Discord-Activity-Status-Bot/assets/105941171/8f7a35ab-0bc5-4800-b9b0-025d622d0057">
