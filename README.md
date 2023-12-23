@@ -26,6 +26,7 @@ You will also need to get your API token from your battlemetrics account once cr
 <img width="308" alt="Screenshot 2023-12-23 at 12 11 59" src="https://github.com/LukeeSucks/Squad-Discord-Activity-Status-Bot/assets/105941171/a33fedcf-bc37-45bf-a499-1507fc626730">
 
 Finally, you will need to get your bot token after you create your bot on the Discord Developer Portal and add replace **bot_token** at the bottom of **main.py** file.
+<img width="173" alt="Screenshot 2023-12-23 at 12 16 38" src="https://github.com/LukeeSucks/Squad-Discord-Activity-Status-Bot/assets/105941171/7d3a72ee-cedf-40ed-b2be-9b8e12484879">
 
 Any issues or questions feel free to message me on discord: **@lukeesucks**
 
